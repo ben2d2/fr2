@@ -1,19 +1,27 @@
+html {
+  font-family: "Helvetica";
+}
 body	{
-  background: url(../../assets/images/fr2-web-banner.png) top right no-repeat;
-  background-attachment: fixed;
   color: #fff;
+  background: url(../../assets/images/eclipse.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
-
-.container {
-  margin-top: 120px;
+.navbar-brand img {
+  max-height: 40px;
 }
 
+.fr2-main {
+  margin-top: 40px;
+}
 
 .classic {
   padding: 30px;
   margin: 60px 0;
-  background:rgba(256,256,256,0.9);
+  background:rgba(256,256,256,0.7);
   color: #000;
 }
 

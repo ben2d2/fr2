@@ -3,7 +3,7 @@ html {
 }
 body	{
   color: #fff;
-  background: url(../../assets/images/eclipse.png) no-repeat center center fixed;
+  background: url(../../assets/images/fr2-barn.png) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -21,7 +21,7 @@ body	{
 .classic {
   padding: 30px;
   margin: 60px 0;
-  background:rgba(256,256,256,0.7);
+  background:rgba(256,256,256,0.9);
   color: #000;
 }
 
@@ -31,4 +31,8 @@ body	{
 
 .profiles {
   margin-top: 30px;
+}
+
+.music-toggle:hover {
+  background: #FFD73B;
 }

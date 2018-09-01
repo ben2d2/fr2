@@ -11,7 +11,7 @@ body	{
 }
 
 .navbar-brand img {
-  max-height: 40px;
+  max-height: 50px;
 }
 
 .fr2-main {
@@ -27,10 +27,6 @@ body	{
 
 .bg-dark {
   background-color: #000000;
-}
-
-.profiles {
-  margin-top: 30px;
 }
 
 .music-toggle:hover {

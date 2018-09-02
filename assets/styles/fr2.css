@@ -32,3 +32,22 @@ body	{
 .music-toggle:hover {
   background: #FFD73B;
 }
+
+.center {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.square {
+  margin: auto;
+  display: block;
+  width: 48px;
+  height: 48px;
+  border: 1px solid #000;
+  border-radius: 3px;
+  text-align: center;
+  font-size: 30px;
+  vertical-align: middle;
+  color: #CC651C;
+  background: #fff;
+}
